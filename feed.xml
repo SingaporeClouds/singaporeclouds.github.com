@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:EE6503DD-A0D3-4610-A2ED-14DD37ED5CD6</id>
  <title>Page list Atom feed</title>
- <updated>2011-10-06T14:45:15+08:00</updated>
+ <updated>2011-10-06T15:12:45+08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">index</title>
   <in-navbar xmlns="urn:iweb:">F6B06804-2F4C-4AC1-97BA-A2D6DE6CC4B5</in-navbar>
   <link rel="alternate" href="index.html"/>
-  <updated>2011-10-06T14:45:15.001+08:00</updated>
+  <updated>2011-10-06T15:12:45.001+08:00</updated>
   <content>index</content>
  </entry>
 </feed>
